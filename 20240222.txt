@@ -196,6 +196,12 @@ BBC纪录片地球脉动,https://cloud.lxweb.cn/f/RE87tO/Planet.Earth.A.Celebrat
 山东新闻,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.flv
 山东综艺,http://119.164.216.162:9901/tsfile/live/1001_1.m3u8
 山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.flv
+济南都市,http://live.cooltv.top/tv/jinan.php?id=jnds
+济南鲁中,http://live.cooltv.top/tv/jinan.php?id=jnlz
+济南生活,http://live.cooltv.top/tv/jinan.php?id=jnsh
+济南文旅体育,http://live.cooltv.top/tv/jinan.php?id=jnwlty
+济南新闻综合,http://live.cooltv.top/tv/jinan.php?id=jnxw
+
 泰安新泰乡村,http://live.xtgdw.cn:1935/live/xtxc/playlist.m3u8
 泰安新泰新闻综合,http://live.xtgdw.cn:1935/live/xtzh/playlist.m3u8
 泰安新泰影视,http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
@@ -224,11 +230,7 @@ BBC纪录片地球脉动,https://cloud.lxweb.cn/f/RE87tO/Planet.Earth.A.Celebrat
 菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
 菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
 菏泽影视,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
-济南都市,http://live.cooltv.top/tv/jinan.php?id=jnds
-济南鲁中,http://live.cooltv.top/tv/jinan.php?id=jnlz
-济南生活,http://live.cooltv.top/tv/jinan.php?id=jnsh
-济南文旅体育,http://live.cooltv.top/tv/jinan.php?id=jnwlty
-济南新闻综合,http://live.cooltv.top/tv/jinan.php?id=jnxw
+
 济宁新闻,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
 聊城公共,http://m3u8.channellive.lcbtv.com/cms/videos/nmip-media-dz/channellive/channel3/playlist.m3u8
 聊城新闻综合,http://m3u8.channellive.lcbtv.com/cms/videos/nmip-media-dz/channellive/channel2/playlist.m3u8
