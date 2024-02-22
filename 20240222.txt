@@ -253,29 +253,6 @@ BBC纪录片地球脉动,https://cloud.lxweb.cn/f/RE87tO/Planet.Earth.A.Celebrat
 烟台新闻综合,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8?shandd
 
 ▶️┃YY电影,#genre#
-速度与激情,http://mmitv.top/pltv/yy.php?id=1382749892
-敢死队,http://mmitv.top/pltv/yy.php?id=1382735573
-yy电影-周星驰,http://mmitv.top/pltv/yy.php?id=24921161
-变形金刚,http://mmitv.top/pltv/yy.php?id=1382736803
-yy电影7,http://mmitv.top/pltv/yy.php?id=1354930924
-毒液,http://mmitv.top/pltv/yy.php?id=1382745095
-yy电影9,http://mmitv.top/pltv/yy.php?id=1355171357
-yy电影10,http://mmitv.top/pltv/yy.php?id=24066336
-yy电影-李连杰,http://mmitv.top/pltv/yy.php?id=1459869766
-YY電影-林正英,http://mmitv.top/pltv/yy.php?id=1353685311
-yy怀旧电影,http://mmitv.top/pltv/yy.php?id=1382627144
-YY電影-歐美電影,http://mmitv.top/pltv/yy.php?id=24923327
-YY電影-歐美科幻,http://mmitv.top/pltv/yy.php?id=37988782
-YY電影-歐美動作電影,http://mmitv.top/pltv/yy.php?id=1382745089
-速度与激情,http://mmitv.top/pltv/yy.php?id=1382749892&uid=2786099940
-林正英电影,http://mmitv.top/pltv/yy.php?id=34229877&uid=1536159096
-林正英鬼片,http://mmitv.top/pltv/yy.php?id=1351505899&uid=1150685483
-菲菲影院,http://mmitv.top/pltv/yy.php?id=1456668939&uid=2718850416
-幸福影视,http://mmitv.top/pltv/yy.php?id=1382737886&uid=2786225520
-经典鬼片,http://mmitv.top/pltv/yy.php?id=29460894&uid=1647770566
-泡芙影院,http://mmitv.top/pltv/yy.php?id=24407222&uid=2241532024
-成龍,http://mmitv.top/pltv/yy.php?id=1354888751
-林正英鬼片,http://mmitv.top/pltv/yy.php?id=1351505899
 豆瓣高分,http://epg.112114.xyz/douyu/8770422
 鸿运当头㊣代,https://pull.kktv8.com/livekktv/99350550.flv
 瑶瑶恐怖㊣版,http://159.75.85.63:35455/douyu/2935323
@@ -286,26 +263,10 @@ YY電影-歐美動作電影,http://mmitv.top/pltv/yy.php?id=1382745089
 绍兴影院✪另,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 
 ▶️┃YY电视剧,#genre#
-
-
-yy电视剧2,http://mmitv.top/pltv/yy.php?id=1354143966
-yy电视剧,http://mmitv.top/pltv/yy.php?id=28099939
-yy电视剧1,http://mmitv.top/pltv/yy.php?id=1455460998
-铁齿铜牙纪晓岚,http://mmitv.top/pltv/yy.php?id=1352227227
-射雕英雄,http://mmitv.top/pltv/yy.php?id=1354210357
-神雕侠侣,http://mmitv.top/pltv/yy.php?id=1351762426#https://live.metshop.top/yy/1351762426
-西游记后传,http://mmitv.top/pltv/yy.php?id=1353392400
-萌儿陪看,http://mmitv.top/pltv/yy.php?id=29216766
-狂飙,http://mmitv.top/pltv/yy.php?id=1382764587
-封神榜,http://mmitv.top/pltv/yy.php?id=1353426319&uid=1834428187#https://live.metshop.top/yy/1353426319
-正阳门下,http://mmitv.top/pltv/yy.php?id=1354931580&uid=2705646910
-雍正王朝,http://mmitv.top/pltv/yy.php?id=23206872&uid=2551997293#https://live.metshop.top/yy/23206872
-下饭神剧,http://mmitv.top/pltv/yy.php?id=23512910&uid=2244321222
-神医喜来乐,http://mmitv.top/pltv/yy.php?id=1382714119&uid=2244059750
-地下交通站,http://mmitv.top/pltv/yy.php?id=1353428972&uid=2463800499
-宰相刘罗锅,http://mmitv.top/pltv/yy.php?id=1382745191&uid=2786225719#https://live.metshop.top/yy/1353892468
-隋唐英雄传,http://mmitv.top/pltv/yy.php?id=1352475619&uid=2338241617
-倚天屠龙记,https://live.metshop.top/yy/1449856066
+神雕侠侣,https://live.metshop.top/yy/1351762426
+封神榜,https://live.metshop.top/yy/1353426319
+雍正王朝,https://live.metshop.top/yy/23206872
+宰相刘罗锅,https://live.metshop.top/yy/1353892468
 天龙八部,https://live.metshop.top/yy/1351814644
 笑傲江湖,https://live.metshop.top/yy/1354936128
 寻秦记,https://live.metshop.top/yy/1382749900
@@ -315,10 +276,9 @@ yy电视剧1,http://mmitv.top/pltv/yy.php?id=1455460998
 西游记后传,https://live.metshop.top/yy/1353392400
 少年包青天,https://live.metshop.top/yy/38498680
 庆余年,http://diyp.112114.xyz/douyu/7489563
-知否知否应是绿肥红瘦,https://live.metshop.top/yy/21881901#http://mmitv.top/pltv/yy.php?id=21881901&uid=461123160
+知否知否应是绿肥红瘦,https://live.metshop.top/yy/21881901
 仙剑奇侠传,https://live.metshop.top/yy/1382749903
 金装四大才子,https://live.metshop.top/yy/1354926600
-公主嫁到,https://live.metshop.top/yy/1382736915
 耀舞长安,https://live.metshop.top/yy/1382741640
 上海滩,https://live.metshop.top/yy/1382745184
 大时代,https://live.metshop.top/yy/1354930891
@@ -327,7 +287,6 @@ yy电视剧1,http://mmitv.top/pltv/yy.php?id=1455460998
 放羊的星星,https://live.metshop.top/yy/1355260662
 苦乐村官,https://live.metshop.top/yy/1382736864
 爱情公寓,http://epg.112114.xyz/douyu/6863367
-野外生存,http://mmitv.top/pltv/yy.php?id=1355244168
 
 ▶️┃YY小品,#genre#
 
