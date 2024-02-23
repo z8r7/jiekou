@@ -155,7 +155,7 @@ CHC动作电影,http://182.107.188.104:8888/newlive/live/hls/57/live.m3u8
 阿凡达,https://vip.ffzy-play10.com/20221215/3326_af2d277e/2000k/hls/mixed.m3u8
 加勒比海盗,https://vip.ffzy-play7.com/20221230/10423_881d8359/2000k/hls/mixed.m3u8
 ▶️┃春节影院,#genre#
-目中无人2,http://110.42.2.247:8001/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=https://vip.ffzyread.com/20240210/23323_5a780b19/index.m3u8
+目中无人2,https://alivc.cdn.qiduo7.com/e01467f7ce1f71ee8ac14531859c0102/0193a59c915147299d7d0e19a4796de9-9e0c5436b9bec5fb0bab231296039b74-ld.m3u8?auth_key=1708698566-6d660ddd3b3e446184996333bb11cbc0-0-019b51c0d4d11ee3cd1f55585fadc626
 破战,https://cc-im-kefu-cos.7moor-fs1.com/im/1cf621c0-5c37-11e9-9460-658dbd81beae/97861689598119%40AwLXEt3u/2023-07-17/2024-02-23_20%3A48%3A52/1708685483/78477082/0wsH1awCDw.jpg?imageView2/2/
 飞驰人生2,https://cdn.wls911.com:777/a874d476/index.m3u8
 银河护卫队3,https://cc-im-kefu-cos.7moor-fs1.com/im/1cf621c0-5c37-11e9-9460-658dbd81beae/97861689598119%40AwLXEt3u/2023-07-17/2024-02-23_20%3A48%3A52/1708648335/78477082/3it7yagvsg.jpg?imageView2/2/
