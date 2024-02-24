@@ -240,11 +240,10 @@ CHC动作电影,http://182.107.188.104:8888/newlive/live/hls/57/live.m3u8
 阿凡达,https://vip.ffzy-play10.com/20221215/3326_af2d277e/2000k/hls/mixed.m3u8
 加勒比海盗,https://vip.ffzy-play7.com/20221230/10423_881d8359/2000k/hls/mixed.m3u8
 ▶️┃春节影院,#genre#
-目中无人2,http://110.42.2.247:8001/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=https://vip.ffzyread.com/20240210/23323_5a780b19/index.m3u8
+目中无人2,https://v10.suonizy-youku.com/202402/10/f06e6rS3aU3/video/index.m3u8
 破战,https://videocut-upload-sz.oss-cn-shenzhen.aliyuncs.com/feedback/1708790364854_e0651ce926e84bcb952d3701e00f8634.jpg?Expires=1708876765&OSSAccessKeyId=LTAIyIPluzf98f5v&Signature=G95qsHnFR5%2FK2TN1yXN%2FXBTU8qI%3D
 飞驰人生2,https://cdn.wls911.com:777/a874d476/index.m3u8
-银河护卫队3,https://cc-im-kefu-cos.7moor-fs1.com/im/1cf621c0-5c37-11e9-9460-658dbd81beae/97861689598119%40AwLXEt3u/2023-07-17/2024-02-23_20%3A48%3A52/1708648335/78477082/3it7yagvsg.jpg?imageView2/2/
-
+银河护卫队3,http://192.168.124.2:9978/.m3u8?m3uAdsKey=czYuYmZ6eWNkbi5jb20=&url=aHR0cHM6Ly9zNi5iZnp5Y2RuLmNvbS92aWRlby95aW5oZWh1d2VpZHVpMy8lRTUlOUIlQkQlRTglQUYlQUQlRTclODklODglRTUlQUUlOTglRTQlQjglQUQvaW5kZXgubTN1OA==&headers=VXNlci1BZ2VudD0rTW96aWxsYSUyRjUuMCslMjhMaW51eCUzQitBbmRyb2lkKzExJTNCK00yMDEySzExQUMrQnVpbGQlMkZSS1ExLjIwMDgyNi4wMDIlM0Ird3YlMjkrQXBwbGVXZWJLaXQlMkY1MzcuMzYrJTI4S0hUTUwlMkMrbGlrZStHZWNrbyUyOStWZXJzaW9uJTJGNC4wK0Nocm9tZSUyRjkwLjAuNDQzMC4yMTArTW9iaWxlK1NhZmFyaSUyRjUzNy4zNiY=
 暴走财神5,https://v.cdnlz12.com/20240214/11569_e1ddc734/index.m3u8?sign=e3ce091c5b5f79c3c16c9c9028fed4a5
 动物园里有什么,https://v.cdnlz12.com/20240212/11548_61082488/index.m3u8
 卓别林精选1080p,https://cloud.lxweb.cn/f/kqbRUp/The.Chaplin.Revue.1959.1080p.BluRay.x265-RARBG.mp4
