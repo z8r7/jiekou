@@ -1,4 +1,4 @@
-﻿▶️┃央视,#genre#
+﻿▶️┃IPV4央视,#genre#
 CCTV1,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8#http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8#http://58.19.38.233:8888/newlive/live/hls/2/live.m3u8#http://183.134.3.22:8888/newlive/live/hls/2/live.m3u8#http://221.2.146.228:8888/newlive/live/hls/2/live.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8#http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8#http://222.81.86.42:8060/hls/ch3/ch3.m3u8
 CCTV2,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8#http://221.2.146.228:8888/newlive/live/hls/3/live.m3u8#http://183.134.3.22:8888/newlive/live/hls/3/live.m3u8#http://221.2.36.34:8888/newlive/live/hls/3/live.m3u8#http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8#http://111.20.35.103:6610/yinhe/2/ch00000090990000001840/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 CCTV3,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8#http://221.2.146.228:8888/newlive/live/hls/4/live.m3u8#http://58.19.38.233:8888/newlive/live/hls/4/live.m3u8#http://183.134.3.22:8888/newlive/live/hls/4/live.m3u8#http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
@@ -16,6 +16,35 @@ CCTV13,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212262
 CCTV14,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8#http://221.2.146.228:8888/newlive/live/hls/15/live.m3u8#http://223.95.111.98:5555/newlive/live/hls/14/live.m3u8
 CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?#http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8#http://221.2.146.228:8888/newlive/live/hls/16/live.m3u8#http://58.19.38.233:8888/newlive/live/hls/17/live.m3u8#http://183.134.3.22:8888/newlive/live/hls/16/live.m3u8#http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
+
+﻿▶️┃咪咕央视,#genre#
+CCTV1综合,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv1
+CCTV2财经,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv2
+CCTV3综艺,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv3
+CCTV4中文国际,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv4
+CCTV5体育,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv5
+CCTV6电影,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv6
+CCTV7国防军事,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv7
+CCTV8电视剧,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv8
+CCTV9纪录,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv9
+CCTV10科教,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv10
+CCTV11戏曲,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv11
+CCTV12社会与法,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv12
+CCTV13新闻,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv13
+CCTV14少儿,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv14
+CCTV15音乐,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv15
+CCTV17农业农村,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv17
+CCTV4欧洲,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv4kouzhou
+CCTV4美洲,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv4meizhou
+CCTV老故事,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctvlgs
+CCTV9Documentary,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv9documentary
+CCTV阿拉伯语,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctvalby
+CCTV西班牙语,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctvxbyy
+CCTV法语,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctvfy
+CCTV俄语,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctvey
+CCTV发现之旅,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctvfxzl
+CCTV中学生,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctvzxs
+CGTN,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=CGTN
 
 🔓┃IPV6,#genre#
 CCTV3 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
@@ -48,6 +77,23 @@ CCTV-8电视剧,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224
 
 ▶️┃移动卫视,#genre#
 
+东方卫视,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=dfws
+江苏卫视,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=jsws
+江西卫视,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=jxws
+山东卫视,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=sxws
+重庆卫视,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cqws
+陕西卫视,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=sxws1#http://123.240a.top/%E5%92%AA%E5%92%95.php?id=sxws2
+湖北卫视,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=hbws
+内蒙古卫视,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=nmgws
+甘肃卫视,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=gsws
+新疆卫视,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=xjws1
+西藏卫视,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=xzws
+宁夏卫视,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=nxws
+广西卫视,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=gxws
+云南卫视,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=ynws
+贵州卫视,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=gzws
+青海卫视,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=qhws
+吉林卫视,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=jlws
 北京卫视,http://221.2.36.34:8888/newlive/live/hls/19/live.m3u8#http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226222/1.m3u8
 天津卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225765/index.m3u8#http://221.2.36.34:8888/newlive/live/hls/42/live.m3u8#http://182.107.188.104:8888/newlive/live/hls/43/live.m3u8#http://61.51.122.50:8888/newlive/live/hls/26/live.m3u8
 深圳卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225752/index.m3u8#http://182.107.188.104:8888/newlive/live/hls/28/live.m3u8#http://61.51.122.50:8888/newlive/live/hls/21/live.m3u8#http://61.51.122.50:8888/newlive/live/hls/35/live.m3u8#http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226205/1.m3u8
@@ -1272,27 +1318,36 @@ Channel News Asia『蓝光』,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f4
 安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 先锋乒羽,http://httpdvb.slave.yqdtv.com:13164/playurl?programid=4200000116&playtype=live&protocol=hls&playtoken=31603YEQXREOPEG10&accesstoken=G79E6023V21307D1TD05FABJB53102ABM786710FEI3282697DK98BDA6.m3u8
 国外体育6,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+NBA经典,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=nbajd
+五大联赛经典,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=5dsjd
+CBA经典,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cbajd
+玫瑰轮播台,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=mglbt
+UFC格斗精选,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=ufcgdjx
+劲爆体育,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=jbty
+魅力足球,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=mlzq
+赛事最经典,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=sszjd
+掼蛋精英赛,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=gdjys
+体坛名栏汇,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=ttmlh
+英雄联盟赛事,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=yxlmss
+和平精英赛事,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=hpjyss
+四海钓鱼,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=shdy
+咪咕24小时体育台,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=mg24
+游戏风云,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=yxfy
+七彩戏剧,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=qcxj
 
-▶️┃影视综合,#genre#
-万州影视,http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8#http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
-河北影视,https://jwplay.hebyun.com.cn:443/live/hbystv/1500k/tzwj_video.m3u8
-吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8#http://stream1.jlntv.cn/yspd/sd/live.m3u8?_upt=f6b685651648171016
-滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
-菏泽影视,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
-新泰影视,http://111.17.214.4:1935/live/xtys/playlist.m3u8
-新昌休闲影视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-石河子影视文体,http://124.88.144.73:1935/live/jjsh/HasBahCa.m3u8
-南京影视,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
-隆化影视,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8#http://hblh.chinashadt.com:2036/live/stream:lh2.stream/HasBahCa.m3u8
-美丽中国说,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
-中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-CGTN France,http://livefr.cgtn.com/1000f/prog_index.m3u8
-平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?blog.ntnas.top
-新泰影视频道,http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
-溧水影视,http://live.lsrmw.cn/ysyl/sd/live.m3u8
-RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 
+▶️┃影视频道,#genre#
+
+南方影视,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=nfys
+体育休闲频道,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=tyxx
+红色轮播台,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=hslbr
+
+热剧联播,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=rjlb
+欢笑剧场,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=hxjc
+高清大片,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=chcgq
+新片放映厅,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=xpbf
+
+经典香港电影,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=xgdy
 ▶️┃春 晚,#genre#
 1983年,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4#https://vd2.bdstatic.com/mda-nmgf0aiczefpbjyv/360p/h264/1671273368681637465/mda-nmgf0aiczefpbjyv.mp4
 1984年,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4#http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
