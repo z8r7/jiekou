@@ -33,10 +33,7 @@ CCTV综合指南,http://110.253.142.191:8888/rtp/239.253.93.249:6427#http://120.
 CCTV央视文化精品,http://110.253.142.191:8888/rtp/239.253.93.175:6439#http://120.0.27.191:18888/rtp/239.253.93.175:6439
 CGTN,http://110.253.142.191:8888/rtp/239.253.92.15:8011#http://120.0.27.191:18888/rtp/239.253.92.15:8011#https://livedoc.cgtn.com/1000d/prog_index.m3u8
 CGTN记录,http://110.253.142.191:8888/rtp/239.253.93.195:6373#http://120.0.27.191:18888/rtp/239.253.93.195:6373
-CGTN俄语,http://110.253.142.191:8888/rtp/239.253.93.199:6377#http://120.0.27.191:18888/rtp/239.253.93.199:6377
-CGTN法语,http://110.253.142.191:8888/rtp/239.253.93.197:6375#http://120.0.27.191:18888/rtp/239.253.93.197:6375#https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-CGTN西班牙语,http://110.253.142.191:8888/rtp/239.253.93.196:6374#http://120.0.27.191:18888/rtp/239.253.93.196:6374
-CGTN阿拉伯语,http://110.253.142.191:8888/rtp/239.253.93.198:6376#http://120.0.27.191:18888/rtp/239.253.93.198:6376#https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+
 CCTV1,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv1
 CCTV2,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv2
 CCTV3,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv3
@@ -57,10 +54,7 @@ CCTV4欧洲,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv4kouzhou
 CCTV4美洲,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv4meizhou
 CCTV老故事,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctvlgs
 CCTV9Documentary,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv9documentary
-CCTV阿拉伯语,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctvalby
-CCTV西班牙语,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctvxbyy
-CCTV法语,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctvfy
-CCTV俄语,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctvey
+
 CCTV发现之旅,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctvfxzl
 CCTV中学生,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctvzxs
 CGTN,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=CGTN
