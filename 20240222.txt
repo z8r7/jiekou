@@ -60,23 +60,23 @@ CCTV发现之旅,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctvfxzl
 CCTV中学生,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctvzxs
 CGTN,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=CGTN
 
-CCTV-1,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv1
-CCTV-2,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv2
-CCTV-3,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv3
-CCTV-4,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv4
-CCTV-5,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv5
-CCTV-6,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv6
-CCTV-7,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv7
-CCTV-8,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv8
-CCTV-9,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv9
-CCTV-10,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv10
-CCTV-11,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv11
-CCTV-12,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv12
-CCTV-13,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv13
-CCTV-14,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv14
-CCTV-15,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv15
-CCTV-16,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv16
-CCTV-17,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv17
+CCTV1,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv1
+CCTV2,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv2
+CCTV3,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv3
+CCTV4,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv4
+CCTV5,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv5
+CCTV6,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv6
+CCTV7,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv7
+CCTV8,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv8
+CCTV9,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv9
+CCTV10,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv10
+CCTV11,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv11
+CCTV12,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv12
+CCTV13,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv13
+CCTV14,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv14
+CCTV15,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv15
+CCTV16,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv16
+CCTV17,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv17
 
 
 
