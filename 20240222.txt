@@ -55,7 +55,6 @@ CCTV4欧洲,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv4kouzhou
 CCTV4美洲,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv4meizhou
 CCTV老故事,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctvlgs
 CCTV9Documentary,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv9documentary
-
 CCTV发现之旅,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctvfxzl
 CCTV中学生,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctvzxs
 CGTN,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=CGTN
@@ -77,8 +76,6 @@ CCTV14,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv14
 CCTV15,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv15
 CCTV16,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv16
 CCTV17,http://euk.hk5.345888.xyz.cdn.cloudflare.net/bj.php?id=cctv17
-
-
 
 CCTV1,http://120.0.27.191:18888/rtp/239.253.92.83:8012
 CCTV2,http://120.0.27.191:18888/rtp/239.253.92.190:6065
