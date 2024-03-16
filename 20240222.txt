@@ -35,6 +35,22 @@ CGTN,https://livedoc.cgtn.com/1000d/prog_index.m3u8
 CGTN记录,http://110.253.142.191:8888/rtp/239.253.93.195:6373
 CCTV4K,http://110.253.142.191:8888/rtp/239.253.93.134:6631
 
+CCTV1,http://221.213.70.18:9901/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV2,http://221.213.70.18:9901/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV3,http://221.213.70.18:9901/tsfile/live/0003_1.m3u8?key=txiptv
+CCTV4,http://221.213.70.18:9901/tsfile/live/0004_1.m3u8?key=txiptv
+CCTV5,http://221.213.70.18:9901/tsfile/live/0005_1.m3u8?key=txiptv
+CCTV6,http://221.213.70.18:9901/tsfile/live/0006_1.m3u8?key=txiptv
+CCTV7,http://221.213.70.18:9901/tsfile/live/0007_1.m3u8?key=txiptv
+CCTV8,http://221.213.70.18:9901/tsfile/live/0008_1.m3u8?key=txiptv
+CCTV9,http://221.213.70.18:9901/tsfile/live/0009_1.m3u8?key=txiptv
+CCTV10,http://221.213.70.18:9901/tsfile/live/0010_1.m3u8?key=txiptv
+CCTV11,http://221.213.70.18:9901/tsfile/live/0011_1.m3u8?key=txiptv
+CCTV12,http://221.213.70.18:9901/tsfile/live/0012_1.m3u8?key=txiptv
+CCTV13,http://221.213.70.18:9901/tsfile/live/0013_1.m3u8?key=txiptv
+CCTV14,http://221.213.70.18:9901/tsfile/live/0014_1.m3u8?key=txiptv
+CCTV15,http://221.213.70.18:9901/tsfile/live/0015_1.m3u8?key=txiptv
+
 CCTV1,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv1
 CCTV2,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv2
 CCTV3,http://123.240a.top/%E5%92%AA%E5%92%95.php?id=cctv3
@@ -113,21 +129,7 @@ CGTN记录,http://120.0.27.191:18888/rtp/239.253.93.195:6373
 CCTV4K,http://120.0.27.191:18888/rtp/239.253.93.134:6631
 
 
-CCTV1,http://221.213.70.18:9901/tsfile/live/0001_1.m3u8?key=txiptv
-CCTV2,http://221.213.70.18:9901/tsfile/live/0002_1.m3u8?key=txiptv
-CCTV3,http://221.213.70.18:9901/tsfile/live/0003_1.m3u8?key=txiptv
-CCTV4,http://221.213.70.18:9901/tsfile/live/0004_1.m3u8?key=txiptv
-CCTV5,http://221.213.70.18:9901/tsfile/live/0005_1.m3u8?key=txiptv
-CCTV6,http://221.213.70.18:9901/tsfile/live/0006_1.m3u8?key=txiptv
-CCTV7,http://221.213.70.18:9901/tsfile/live/0007_1.m3u8?key=txiptv
-CCTV8,http://221.213.70.18:9901/tsfile/live/0008_1.m3u8?key=txiptv
-CCTV9,http://221.213.70.18:9901/tsfile/live/0009_1.m3u8?key=txiptv
-CCTV10,http://221.213.70.18:9901/tsfile/live/0010_1.m3u8?key=txiptv
-CCTV11,http://221.213.70.18:9901/tsfile/live/0011_1.m3u8?key=txiptv
-CCTV12,http://221.213.70.18:9901/tsfile/live/0012_1.m3u8?key=txiptv
-CCTV13,http://221.213.70.18:9901/tsfile/live/0013_1.m3u8?key=txiptv
-CCTV14,http://221.213.70.18:9901/tsfile/live/0014_1.m3u8?key=txiptv
-CCTV15,http://221.213.70.18:9901/tsfile/live/0015_1.m3u8?key=txiptv
+
 
 CCTV1,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
