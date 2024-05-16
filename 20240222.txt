@@ -686,12 +686,7 @@ CHC动作电影,http://182.107.188.104:8888/newlive/live/hls/57/live.m3u8
 阿凡达,https://vip.ffzy-play10.com/20221215/3326_af2d277e/2000k/hls/mixed.m3u8
 加勒比海盗,https://vip.ffzy-play7.com/20221230/10423_881d8359/2000k/hls/mixed.m3u8
 ▶️┃春节影院,#genre#
-阿凡达2水之道,https://hot.qoqkkhy.com/20230328/TTmNoVoN/index.m3u8
-目中无人2,https://v10.suonizy-youku.com/202402/10/f06e6rS3aU3/video/index.m3u8
-破战,https://videocut-upload-sz.oss-cn-shenzhen.aliyuncs.com/feedback/1708790364854_e0651ce926e84bcb952d3701e00f8634.jpg?Expires=1708876765&OSSAccessKeyId=LTAIyIPluzf98f5v&Signature=G95qsHnFR5%2FK2TN1yXN%2FXBTU8qI%3D
-飞驰人生2,https://cdn.wls911.com:777/a874d476/index.m3u8
-银河护卫队3,http://192.168.124.2:9978/.m3u8?m3uAdsKey=czYuYmZ6eWNkbi5jb20=&url=aHR0cHM6Ly9zNi5iZnp5Y2RuLmNvbS92aWRlby95aW5oZWh1d2VpZHVpMy8lRTUlOUIlQkQlRTglQUYlQUQlRTclODklODglRTUlQUUlOTglRTQlQjglQUQvaW5kZXgubTN1OA==&headers=VXNlci1BZ2VudD0rTW96aWxsYSUyRjUuMCslMjhMaW51eCUzQitBbmRyb2lkKzExJTNCK00yMDEySzExQUMrQnVpbGQlMkZSS1ExLjIwMDgyNi4wMDIlM0Ird3YlMjkrQXBwbGVXZWJLaXQlMkY1MzcuMzYrJTI4S0hUTUwlMkMrbGlrZStHZWNrbyUyOStWZXJzaW9uJTJGNC4wK0Nocm9tZSUyRjkwLjAuNDQzMC4yMTArTW9iaWxlK1NhZmFyaSUyRjUzNy4zNiY=
-暴走财神5,https://v.cdnlz12.com/20240214/11569_e1ddc734/index.m3u8?sign=e3ce091c5b5f79c3c16c9c9028fed4a5
+
 动物园里有什么,https://v.cdnlz12.com/20240212/11548_61082488/index.m3u8
 卓别林精选1080p,https://cloud.lxweb.cn/f/kqbRUp/The.Chaplin.Revue.1959.1080p.BluRay.x265-RARBG.mp4
 拜见岳父大人1080p,https://cloud.lxweb.cn/f/xM8BIM/%E6%8B%9C%E8%A7%81%E5%B2%B3%E7%88%B6%E5%A4%A7%E4%BA%BA1.Meet.the.Parents.2000.1080p.BluRay.H264.AAC-%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95.mkv
@@ -1096,40 +1091,10 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 菏泽影视,http://live.hznet.tv:1935/live/live3/500k/tzwj_video.m3u8
 
 ▶️┃YY电影,#genre#
-豆瓣高分,http://epg.112114.xyz/douyu/8770422
-鸿运当头㊣代,https://pull.kktv8.com/livekktv/99350550.flv
-瑶瑶恐怖㊣版,http://159.75.85.63:35455/douyu/2935323
-怡寶影院㊣版,http://159.75.85.63:35455/douyu/434971
-小黛兮影㊣版,http://159.75.85.63:35455/douyu/11553944
 神乐影院-1台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
 神乐影院-2台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 绍兴影院✪另,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 
-▶️┃YY电视剧,#genre#
-神雕侠侣,https://live.metshop.top/yy/1351762426
-封神榜,https://live.metshop.top/yy/1353426319
-雍正王朝,https://live.metshop.top/yy/23206872
-宰相刘罗锅,https://live.metshop.top/yy/1353892468
-天龙八部,https://live.metshop.top/yy/1351814644
-笑傲江湖,https://live.metshop.top/yy/1354936128
-寻秦记,https://live.metshop.top/yy/1382749900
-新白娘子传奇,https://live.metshop.top/yy/1354490667
-红楼梦,https://live.metshop.top/yy/1382745084
-三国演义,https://live.metshop.top/yy/1354936241
-西游记后传,https://live.metshop.top/yy/1353392400
-少年包青天,https://live.metshop.top/yy/38498680
-庆余年,http://diyp.112114.xyz/douyu/7489563
-知否知否应是绿肥红瘦,https://live.metshop.top/yy/21881901
-仙剑奇侠传,https://live.metshop.top/yy/1382749903
-金装四大才子,https://live.metshop.top/yy/1354926600
-耀舞长安,https://live.metshop.top/yy/1382741640
-上海滩,https://live.metshop.top/yy/1382745184
-大时代,https://live.metshop.top/yy/1354930891
-法证先锋,https://live.metshop.top/yy/1354930965
-飞虎之潜行极战,https://live.metshop.top/yy/1354932420
-放羊的星星,https://live.metshop.top/yy/1355260662
-苦乐村官,https://live.metshop.top/yy/1382736864
-爱情公寓,http://epg.112114.xyz/douyu/6863367
 
 ▶️┃经典电影,#genre#
 
@@ -1263,7 +1228,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 隋唐演义,http://43.138.170.29:35455/douyu/7552568
 
 ▶️┃斗鱼,#genre#
-斗鱼4K影院,http://epg.112114.xyz/douyu/9249162
 万合出品,http://43.138.170.29:35455/douyu/9220456
 高分电影,http://43.138.170.29:35455/douyu/7254536
 贝爷贰厅,http://43.138.170.29:35455/douyu/4332
